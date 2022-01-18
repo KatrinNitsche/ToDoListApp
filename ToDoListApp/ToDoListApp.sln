@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToDoListApp", "ToDoListApp\ToDoListApp.vcxproj", "{C63189AF-C30D-4EB2-9818-E7A2B8A23D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C63189AF-C30D-4EB2-9818-E7A2B8A23D0D}.Debug|x64.ActiveCfg = Debug|x64
+		{C63189AF-C30D-4EB2-9818-E7A2B8A23D0D}.Debug|x64.Build.0 = Debug|x64
+		{C63189AF-C30D-4EB2-9818-E7A2B8A23D0D}.Debug|x86.ActiveCfg = Debug|Win32
+		{C63189AF-C30D-4EB2-9818-E7A2B8A23D0D}.Debug|x86.Build.0 = Debug|Win32
+		{C63189AF-C30D-4EB2-9818-E7A2B8A23D0D}.Release|x64.ActiveCfg = Release|x64
+		{C63189AF-C30D-4EB2-9818-E7A2B8A23D0D}.Release|x64.Build.0 = Release|x64
+		{C63189AF-C30D-4EB2-9818-E7A2B8A23D0D}.Release|x86.ActiveCfg = Release|Win32
+		{C63189AF-C30D-4EB2-9818-E7A2B8A23D0D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5310D646-3EB9-47C7-8A54-C3280D554BF3}
+	EndGlobalSection
+EndGlobal
