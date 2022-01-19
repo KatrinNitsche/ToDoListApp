@@ -2,10 +2,23 @@
 //
 
 #include <iostream>
+using std::cout;
+
+#include "Task.h"
+#include "TaskList.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "My To-Do List Application\n";
+    cout << "=========================\n";
+
+    Task firstTask = Task(1, "Learn C++", "Learn and practice C++ by using Pluralsight and writing demo applications like this one.");
+    TaskList list;
+
+    list.AddTask(firstTask);
+    cout << list.DisplayTaskList();
+
+    
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
